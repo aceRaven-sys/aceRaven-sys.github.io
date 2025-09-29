@@ -1,4 +1,9 @@
-
+h1{
+   text-align: center;
+   font-family: "Times New Roman", serif;
+   font-style: italic;
+   font-weight: bold;
+}
 
 .about{
    border: 2px solid black;
